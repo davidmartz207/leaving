@@ -1,0 +1,3 @@
+1,2,reposo,reposo por enfermedad,perfecto,04-08-92,05-09-92,1
+2,2,reposo,reposo por enfermedad,otro cambio,04-08-92,05-09-92,1
+3,2,reposo,reposo por enfermedad,rechazado hasta traer constancias,04-08-92,05-09-92,2
